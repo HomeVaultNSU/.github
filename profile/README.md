@@ -1,12 +1,34 @@
-## Hi there 👋
+# 🏚 Welcome to HomeVault Organization!  
 
-<!--
+**HomeVault** — это безопасное и удобное хранилище для ваших файлов.  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📚 **Documentation**  
+- 📖 [**API Documentation**](https://homevaultnsu.github.io/homevault-docs/) — API документация для взаимодействия с сервером.  
+
+---
+
+## 📌 **Project Management**  
+- 🗂 [**Kanban Board**](https://github.com/orgs/HomeVaultNSU/projects/3/views/1) — трекинг задач и прогресс.
+- 📅 [**Kanban Board**](https://github.com/orgs/HomeVaultNSU/projects/3/views/4) — диаграмма Ганта.
+
+---
+
+## 🚀 **Latest Updates**  
+- 📌 [**Patch Notes**](./PATCH_NOTES.md) — история изменений.
+- ![File-server last commit](https://img.shields.io/github/last-commit/HomeVaultNSU/file-server?label=File%20Server%20Last%20Update)    
+- ![Client last commit](https://img.shields.io/github/last-commit/HomeVaultNSU/homevault-client?label=Client%20Last%20Update)  
+- ![Docs last commit](https://img.shields.io/github/last-commit/HomeVaultNSU/homevault-docs?label=Docs%20Last%20Update)
+  
+---
+
+## 🛠 **Development**  
+
+### 🗂 **Repositories**  
+
+| **Category**  | **Repository** | **Description** | **Status** |
+|--------------|---------------|----------------|------------|
+| **Backend**  | [`file-server`](https://github.com/HomeVaultNSU/file-server) | Серверная часть для работы с файловой системой | ![GitHub issues](https://img.shields.io/github/issues/HomeVaultNSU/file-server?label=Issues) |
+| **Client**   | [`homevault-client`](https://github.com/HomeVaultNSU/homevault-client) | Клиентское приложение (CLI) | ![GitHub issues](https://img.shields.io/github/issues/HomeVaultNSU/homevault-client?label=Issues) |
+| **Docs**     | [`homevault-docs`](https://github.com/HomeVaultNSU/homevault-docs) | Документация (REST API) | ![GitHub issues](https://img.shields.io/github/issues/HomeVaultNSU/homevault-docs?label=Issues) |
