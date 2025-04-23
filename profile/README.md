@@ -11,7 +11,7 @@
 
 ## 📌 **Project Management**  
 - 🗂 [**Kanban Board**](https://github.com/orgs/HomeVaultNSU/projects/3/views/1) — трекинг задач и прогресс.
-- 📅 [**Kanban Board**](https://github.com/orgs/HomeVaultNSU/projects/3/views/4) — диаграмма Ганта.
+- 📅 [**Gantt chart**](https://github.com/orgs/HomeVaultNSU/projects/3/views/4) — диаграмма Ганта.
 
 ---
 
