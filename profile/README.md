@@ -11,13 +11,11 @@
 
 ## 📌 **Project Management**  
 - 🗂 [**Kanban Board**](https://github.com/orgs/HomeVaultNSU/projects/3/views/1) — трекинг задач и прогресс.
-- 📅 [**Gantt chart**](https://github.com/orgs/HomeVaultNSU/projects/3/views/4) — диаграмма Ганта.
 
 ---
 
 ## 🚀 **Latest Updates**  
-- 📌 [**Patch Notes**](./PATCH_NOTES.md) — история изменений.
-- ![Backend last commit](https://img.shields.io/github/last-commit/HomeVaultNSU/homevault-backend?label=File%20Server%20Last%20Update)    
+- ![Backend last commit](https://img.shields.io/github/last-commit/HomeVaultNSU/homevault-backend?label=Backend%20Last%20Update)    
 - ![Client last commit](https://img.shields.io/github/last-commit/HomeVaultNSU/homevault-client?label=Client%20Last%20Update)  
 - ![Docs last commit](https://img.shields.io/github/last-commit/HomeVaultNSU/homevault-docs?label=Docs%20Last%20Update)
   
